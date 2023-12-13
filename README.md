@@ -6,4 +6,4 @@ This repo does not require frequent changes. In order to **aviod commiting any c
 - `ansible-vault decrypt emergency_kit.md --vault-password-file ~/.vault_key` --- to decrypt
 - `ansible-vault encrypt --vault-pass-file ~/.vault_key emergency_kit.md` --- to encrypt
 
-For more information about Ansible vault, watch ([Encrypting Files with Ansible Vault](https://www.youtube.com/watch?v=xeBnAbmt3Wk)).
+For more information about Ansible vault, watch [encrypting Files with Ansible Vault](https://www.youtube.com/watch?v=xeBnAbmt3Wk).
